@@ -23,7 +23,16 @@ This is a simple React application demonstrating **Redux Toolkit** for state man
 ```bash
 git clone https://github.com/your-username/redux-toolkit-counter-app.git
 cd redux-toolkit-counter-app
+```
+2. **Install the dependencies**
+
+```bash
 npm install
+```
+3.**Start the server**
+
+```bash
+
 npm start
 
 ```
