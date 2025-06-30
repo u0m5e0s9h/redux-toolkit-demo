@@ -13,15 +13,15 @@ This is a simple React application demonstrating **Redux Toolkit** for state man
 
 ### Prerequisites
 
-- Node.js (v16 or above recommended)
-- npm 
+- Node.js
+
 
 ### Installation
 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/redux-toolkit-counter-app.git
+git clone https://github.com/u0m5e0s9h/redux-toolkit-demo.git
 cd redux-toolkit-counter-app
 ```
 2. **Install the dependencies**
