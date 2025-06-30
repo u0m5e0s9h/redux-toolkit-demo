@@ -9,7 +9,7 @@ This is a simple React application demonstrating **Redux Toolkit** for state man
 
 ---
 
-## ⚙ Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -26,3 +26,5 @@ cd redux-toolkit-counter-app
 npm install
 npm start
 
+```
+## Open http://localhost:3000 to view it in the browser.
